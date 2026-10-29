@@ -8,4 +8,3 @@ I'm a PhD Candidate at Politecnico di Milano (AIRLab), working on **generative d
 
 ---
 
-Built with HTML, CSS, and JavaScript · Hosted on GitHub Pages.
